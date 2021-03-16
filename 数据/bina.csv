@@ -1,1 +1,2 @@
-
+NO	病理号	住院号	姓名	Age	"Gender (0:Male,1:Female)"	"Smoking (0:No, 1:Yes)"	Pathology	T	N	M	TNM-Stage	"Chemotherapy (0:No, 1:Yes)"	"Radiotherapy (0:No, 1:Yes)"	CD3	CD4	CD8	PD-1	PD-L1 TILs	PD-L1 TC	PD-L2 TILs	PD-L2 TC	GAL 9 TIL	GAL 9 TC	OX40L TIL	OX40L TC	HLA TIL	HLA TC	DFS	DFS Time (m)	OS	OS Time (m)
+"Due to privacy information, full data is not available at this time"																															
